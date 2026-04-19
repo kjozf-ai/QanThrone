@@ -1,0 +1,4 @@
+{
+  "_note": "Ez a fájl a deploy script után generálódik. A kontraktból leolvasott ABI ide kerül.",
+  "abi": []
+}

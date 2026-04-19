@@ -1,0 +1,14 @@
+{
+  "_note": "Ez a fájl automatikusan generálódik a deploy után (npm run deploy). Töltsd ki a contracts.throne mezőt ha kézzel telepítettél.",
+  "network": {
+    "name":     "QAN TestNet",
+    "chainId":  1121,
+    "rpc":      "https://rpc-testnet.qanplatform.com",
+    "explorer": "https://testnet.qanscan.com"
+  },
+  "contracts": {
+    "throne": ""
+  },
+  "entryFee": "0.001",
+  "entryFeeCurrency": "QANX"
+}
